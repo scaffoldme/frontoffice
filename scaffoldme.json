@@ -1,0 +1,13 @@
+{
+  "name": "backoffice",
+  "description": "test",
+  "frameworkVersion": {
+    "id": 2,
+    "name": "4.0",
+    "releaseDate": "2019-12-18T17:00:54.809Z",
+    "technology": {
+      "name": "Loopback"
+    }
+  },
+  "modulesVersions": []
+}
