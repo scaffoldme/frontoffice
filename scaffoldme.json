@@ -2,8 +2,8 @@
   "name": "frontoffice",
   "description": "test",
   "framework": {
-    "name": "Angular",
-    "version": "8.0",
+    "technologyName": "Angular",
+    "versionName": "8.0",
     "technologyId": 2,
     "versionId": 3
   },
