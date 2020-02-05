@@ -3,9 +3,9 @@
   "description": "test",
   "framework": {
     "technologyName": "Angular",
-    "versionName": "8.0",
-    "technologyId": 2,
-    "versionId": 3
+    "versionName": "8.0.0",
+    "technologyId": 3,
+    "versionId": 13
   },
   "modules": []
 }
